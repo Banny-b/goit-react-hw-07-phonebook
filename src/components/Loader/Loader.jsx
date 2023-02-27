@@ -6,7 +6,7 @@ export const Loader = () => {
     return (
         <div className={Loaderscss.loader}>
             <RotatingLines
-                strokeColor="yellow"
+                strokeColor="white"
                 strokeWidth="4"
                 animationDuration="1"
                 width="50"
